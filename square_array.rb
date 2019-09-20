@@ -5,6 +5,4 @@ def square!
     puts "This number is now #{square}"
   end
   end
-end
-
 [1,2,3].square!
