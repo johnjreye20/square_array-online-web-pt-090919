@@ -1,7 +1,7 @@
 def square_array
 def square!
   numbers = [1,2,3]
-  expect each.do |square|
+  numbers.each.do |square|
     puts "This number is now #{square}"
   end
   end
