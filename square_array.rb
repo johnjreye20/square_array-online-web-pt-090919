@@ -1,5 +1,4 @@
 def square_array(numbers)
   numbers = [1,2,3]
-  numbers.each.do {|square| puts "This number is now #{square}."}
-  counter = numbers += 1
+  puts numbers.inject
   end
