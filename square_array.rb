@@ -3,5 +3,4 @@ def square_array
   numbers.each.do |square|
     puts "This number is now #{square}."
   end
-  end
 [1,2,3].square!
